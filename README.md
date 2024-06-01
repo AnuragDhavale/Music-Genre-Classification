@@ -12,22 +12,7 @@ The project consists of the following components:
 
 3. **GUI Application:** A GUI application is provided for users to interact with the model. Users can play any audio, and the application will predict the genre using the trained model.
 
-## Output from the GUI when the particular songs were played:
-### Pop:
-![Pops](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/pop.png)
-![Pop](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/pop.jpg)
 
-### Rock:
-![rock](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/RockMetal.png)
-![rocks](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/rock.jpg)
-
-### Reggae:
-![reggae](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/reggae.png)
-![reggaes](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/reggae.jpg)
-
-### Jazz:
-![jazz](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/jazz.png)
-![jazzs](https://github.com/amolkerkar/Music-Genre-Classification/blob/main/Output/jazz.jpg)
 
 
 
